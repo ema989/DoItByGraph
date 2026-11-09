@@ -1,4 +1,4 @@
-# Graph
+# DoItByGraph
 
 A minimal, dependency-free state graph engine for Java, inspired by [LangGraph](https://github.com/langchain-ai/langgraph).
 
