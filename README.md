@@ -360,7 +360,7 @@ This project is released under the [MIT License](LICENSE).
 ```text
 MIT License
 
-Copyright (c) <year> <your name>
+Copyright (c) 2026 Emanuele Ciro Muto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
